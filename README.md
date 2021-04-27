@@ -3,7 +3,7 @@
 Solution compléte pour une pizzéria première partie
 Consultez les fichiers
 
-Allons y 
+Let's GO
 
 ![solution responsive OC](https://user-images.githubusercontent.com/62841864/116245236-0b6c8c80-a769-11eb-849f-7a7d20c657cf.png)
 
