@@ -1,1 +1,1 @@
-# OC_Pizza_PORJET_6_Spe_Fonctionnelles_&_Solution
+# OC_Pizza_Spe_Fonctionnelles_&_Solution
