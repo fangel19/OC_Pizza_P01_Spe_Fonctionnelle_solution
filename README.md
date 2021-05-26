@@ -1,7 +1,7 @@
 # OC_Pizza_Spe_Fonctionnelles_&_Solution
 
 Solution compléte pour une pizzéria première partie
-Consultez les fichiers
+consultez les fichiers
 
 Let's GO
 
